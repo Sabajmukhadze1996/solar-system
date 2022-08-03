@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/solar-system/static/css/main.8da9106e.css",
+    "main.js": "/solar-system/static/js/main.eb69ba73.js",
+    "static/media/makemake.png": "/solar-system/static/media/makemake.c6d9a02e69cdbb5f27f1.png",
+    "static/media/mercury.png": "/solar-system/static/media/mercury.562d89795a6fd52c4406.png",
+    "static/media/earth.png": "/solar-system/static/media/earth.ec7dd377343456488b42.png",
+    "static/media/mars.png": "/solar-system/static/media/mars.5d15fe1f2f99348817b4.png",
+    "static/media/pluto.png": "/solar-system/static/media/pluto.0eb67aaf5a06d75af166.png",
+    "static/media/venus.png": "/solar-system/static/media/venus.920273e7c9fad39434e2.png",
+    "static/media/ceres.png": "/solar-system/static/media/ceres.5e81b7b3bd8d944a7bfc.png",
+    "static/media/sun.png": "/solar-system/static/media/sun.974d356ea2ae4def64aa.png",
+    "static/media/eris.png": "/solar-system/static/media/eris.dde887975bb77ff7422e.png",
+    "static/media/jupiter.png": "/solar-system/static/media/jupiter.a07794f80f91dfa0d8da.png",
+    "static/media/haumea.png": "/solar-system/static/media/haumea.1768576bdf902a333e3b.png",
+    "static/media/saturn.png": "/solar-system/static/media/saturn.bb84bd0b6ad70206d4c1.png",
+    "static/media/neptune.png": "/solar-system/static/media/neptune.937038111db9539a6f40.png",
+    "static/media/uranus.png": "/solar-system/static/media/uranus.de09c889c02a1b0ba0c5.png",
+    "static/media/zephyr-asteroid.png": "/solar-system/static/media/zephyr-asteroid.bfbcd379fab9d438c4b7.png",
+    "static/media/florence-asteroid.png": "/solar-system/static/media/florence-asteroid.5ab2083768522c6f44d5.png",
+    "index.html": "/solar-system/index.html",
+    "main.8da9106e.css.map": "/solar-system/static/css/main.8da9106e.css.map",
+    "main.eb69ba73.js.map": "/solar-system/static/js/main.eb69ba73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da9106e.css",
+    "static/js/main.eb69ba73.js"
+  ]
+}
